@@ -2,13 +2,32 @@
 .bgimage {
   width:100%;
   height:500px;
-  background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+  background: url('vital.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
   background-attachment: fixed;
 }
-.bgimage h5 {
-  color:blueviolet;
+li a {
+  color:#000;
+}
+.bgimage h1 {
+  margin-top: 90px;
+  width:500px;
+  font-family: Roboto;
+  font-size: 50px;
+  color:white;
   text-shadow:2px 2px #333;
+}
+p{
+  color:blueviolet;
+}
+.btn{
+ margin-left: 400px;
+ 
+ padding:10px;
+ color:white;
+ font-size: 30px;
+ border: white 3px solid;
+
 }
